@@ -4,8 +4,8 @@
 발표 예정일 
 7월 22일 (금요일) 
 
-발표자 : 도서현
-, 참석자 : 노민우, 신경호, 한준희, 김가은 + a  
+발표자 : shdo
+, 참석자 : mwno, khshin, junhee.han, gekim + a  
 
 발표 내용 
 1. 개발툴을 이용하여 GitHub 공유 프로젝트에 샘플 코드 Push 및 Pull 
