@@ -1,6 +1,4 @@
 # ofm_project-
-# hi
-# check
 
 
 ## 발표 예정일 
