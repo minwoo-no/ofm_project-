@@ -12,3 +12,6 @@
 ( 샘플코드 Hello world 여도됨, 각자 개인 클래스 파일 생성 후 메인메서드에서 호출하는 방식으로 ) 
 2. Jenkis 설치 및 WebLogic 연동 (리눅스 환경)
 ( Jenkis 가 뭔지 설명 필요) 
+
+
+# gitlab
